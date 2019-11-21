@@ -77,14 +77,14 @@ packages:
       name: dio
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "3.0.4"
+    version: "3.0.5"
   file_picker:
     dependency: transitive
     description:
       name: file_picker
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "1.4.2"
+    version: "1.4.3+1"
   flustars:
     dependency: transitive
     description:
@@ -164,7 +164,7 @@ packages:
       name: image_picker
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "0.6.1+11"
+    version: "0.6.2"
   matcher:
     dependency: transitive
     description:
@@ -213,7 +213,7 @@ packages:
       name: photo_view
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "0.8.0"
+    version: "0.8.2"
   platform:
     dependency: transitive
     description:
